@@ -1,0 +1,11 @@
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/controller/CustomerController.java
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/config/SecurityConfig.java
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/controller/AdminOtpController.java
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/security/JwtUtil.java
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/LoginApplication.java
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/service/AdminOtpService.java
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/service/CustomerService.java
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/entity/AdminOtp.java
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/repository/CustomerRepository.java
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/entity/Customer.java
+/home/rifaq/Downloads/login-system-springboot-react-main/login-system/login/src/main/java/com/example/login/repository/AdminOtpRepository.java
